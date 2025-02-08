@@ -1,16 +1,16 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTMzMjgyMzU4NDE1ODEyNjEzMA.Gv0AZI.7kYtq9Xdo-SeUI8dQRLKdvN6YFbteAoVw5rJgo",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["1311795228201717845", ""], 
+  mongodbUri : "mongodb+srv://niksa11:nedimbog1@cluster0.ktcyl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "/bright", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
